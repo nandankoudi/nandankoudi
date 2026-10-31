@@ -1,5 +1,11 @@
 # 💫 About Me:
-# Hi, I'm Nandan 👋<br><br>I'm a 2nd-year CSE (AI & DS) student from Bengaluru who loves turning ideas into working products.<br><br>## 🔭 What I'm working on<br>- **Fixigo**: a Bengaluru-based platform that connects customers with trusted local blue-collar workers.<br><br>## 🛠️ Tech I use<br>**Languages:** JavaScript · Python · Java · C · C++<br>**Web:** React · Node.js · Firebase<br>**Tools:** Git · Figma<br><br>## 🌱 Currently learning<br>- AI/ML and data science<br>- Cloud and system design<br><br>## 🏆 Hackathons<br>- [Hackathon name]: [project built, result or "participated"]<br><br>## 🤝 Let's connect<br>- 📧 Email: nandankoudi@gmail.com<br>- 🌐 Portfolio: https://nandankoudi.github.io<br>- 💼 LinkedIn: [your LinkedIn link]<br><br>⭐ Always happy to collaborate on hackathon projects!
+- 🔭 I'm currently working on **Fixigo**, a Bengaluru-based platform that connects customers with trusted local blue-collar workers
+- 👯 I'm looking to collaborate on **hackathon projects, web apps, and local-impact ideas using React, Node.js, and Firebase**
+- 🤝 I'm looking for help with **system design, scaling Fixigo, and building features like worker verification and ratings**
+- 🌱 I'm currently learning **AI/ML, cloud, and system design**
+- 💬 Ask me about **React, Node.js, Firebase, Python, Java, C/C++, and Git**
+- ⚡ Fun fact: **I build products for the people who fix things in our city, and I'm doing it while still in my 2nd year**
+- ⭐ Always happy to collaborate on hackathon projects!
 
 
 ## 🌐 Socials:
